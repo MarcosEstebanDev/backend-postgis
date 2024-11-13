@@ -12,6 +12,7 @@ This is a **Flask-based RESTful API** for managing weather stations and their me
   - [PUT /weather_stations/update/:id](#put-weather_stationsupdateid)
   - [DELETE /weather_stations/delete/:id](#delete-weather_stationsdeleteid)
 - [Logging](#logging)
+- [License](#License)
 
 ---
 
@@ -126,7 +127,7 @@ The API uses Python's built-in `logging` module to record different levels of lo
 - **Warning**: Invalid input data or attempts to access non-existent resources.
 - **Error**: Internal server errors or issues while processing a request.
 
-### MIT License
+### License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
